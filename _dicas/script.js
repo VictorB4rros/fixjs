@@ -8,7 +8,7 @@ console.log(elem);
 const conteudo = elem.innerHTML;
 console.log(conteudo);
 
-// COMO RECORDAR UM STRING COM BASE EM UM SEPARADOR
+// COMO RECORTAR UM STRING COM BASE EM UM SEPARADOR
 
 const nomeCompleto = "Maria Silva Borges";
 const result1 = nomeCompleto.split(' ');
